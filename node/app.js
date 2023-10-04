@@ -22,6 +22,6 @@ try{
 
 
 
-app.listen(8081,'52.72.197.200', () =>{
-    console.log('server up running in http://52.72.197.200:8000/')
+app.listen(8000, () =>{
+    console.log('server up running in http://localhost:8000/')
 });
